@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ayush
+### Hello, I am Ayush
 
 
 I am a passionate front-end developer who is fascinated by complex engineering problems, DevOps and UX.
