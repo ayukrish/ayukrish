@@ -13,3 +13,6 @@ I am a passionate front-end developer who is fascinated by complex engineering p
 ayukrish/ayukrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+- - - -
+
+https://www.linkedin.com/in/ayukrish/ <br />
