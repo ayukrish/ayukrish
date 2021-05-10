@@ -1,7 +1,7 @@
 ### Hello, I am Ayush
 
 
-I am a passionate front-end developer who is fascinated by complex engineering problems, DevOps and UX.
+I am a passionate web developer who is fascinated by complex engineering problems, DevOps and UX.
 
 * 💻 Experience in building and architecting awesome web experiences.
 * 🤸‍♂️ Worked on Agility, CI/CD.
