@@ -3,11 +3,11 @@
 
 I am a passionate web developer who is fascinated by complex engineering problems, DevOps and UX.
 
-* 💻 Experience in building and architecting awesome web experiences.
-* 🤸‍♂️ Worked on Agility, CI/CD.
-* 🦾 I have lead teams in multiple projects.
-* 👥 I have worked directly and cohesively with clients, creative, business and QA teams.
-* 📖 Love to read as well
+* Experience in building and architecting awesome web experiences.
+* Worked on Agility, CI/CD.
+* I have lead teams in multiple projects.
+* I have worked directly and cohesively with clients, creative, business and QA teams.
+* Love to read as well
 
 <!---
 ayukrish/ayukrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
